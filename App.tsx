@@ -210,10 +210,7 @@ Quedo atento a la disponibilidad.`;
 
         <div className="container mx-auto px-6 relative z-10 grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 animate-slide-up">
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-vica-orange/10 border border-vica-orange/30 backdrop-blur-sm">
-              <Star size={14} className="text-vica-orange fill-vica-orange" />
-              <span className="text-xs font-bold tracking-widest text-vica-orange uppercase">ALQUILER DE AUTOS EN TINGO MARÍA</span>
-            </div>
+
 
             <h1 className="text-5xl md:text-7xl font-display font-bold leading-none text-white drop-shadow-xl">
               EXPLORA LA SELVA <br />
